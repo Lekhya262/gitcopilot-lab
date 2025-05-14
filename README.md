@@ -1,4 +1,4 @@
-# Token Generator API 🚀
+# Token Generator API
 
 This is a FastAPI application that takes text input and returns a checksum using SHA256.
 
